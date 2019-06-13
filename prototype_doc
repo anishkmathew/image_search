@@ -1,0 +1,3 @@
+Frontend will be a react app. Image search will be done on a dummy array with details like url, score and meta data. User will input a url
+which will be searched in the array. If found the details of the array will be retained. From the meta data we will find out a reference to
+the article in which the image is added. There could be more similar images associated with the article, we will list all of them.
